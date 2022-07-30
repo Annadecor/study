@@ -1,0 +1,388 @@
+.containervr {
+    display : flex;
+    width : 1140px;
+    height : 900px;
+    top : -1148px;
+    left : -1009px;
+    background : #FFFFFF;
+    box-shadow : 0 20px 100px rgb(8, 24, 81, 0.25);
+    border-radius : 10px;
+    }
+    .browser {
+    display : flex;
+    width : 100%;
+    height : 40px;
+    left : 0;
+    top : 0;
+    filter : drop-shadow(0 1px 1px rgb(0, 0, 0, 0.15));
+    }
+    .logo {
+    display : flex;
+    position : absolute;
+    width : 201px;
+    height : 40px;
+    left : 76px;
+    top : 90px;
+    }
+    .logo__viarushka {
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 800;
+    font-size : 16px;
+    line-height : 16px;
+    color : #000000;
+    }
+    .button__cart {
+    position : absolute;
+    width : 115px;
+    height : 38px;
+    left : 1251px;
+    top : 89px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 13px;
+    line-height : 13px;
+    color : #FFFFFF;
+    background : #5222D0;
+    border-radius : 100px;
+    }
+    .button__tobuy {
+    position : absolute;
+    width : 270px;
+    height : 84px;
+    left : 116px;
+    top : 558px;
+    background : #5222D0;
+    border-radius : 100px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 35px;
+    line-height : 35px;
+    color : #FFFFFF;
+    }
+    .bigtext {
+    position : absolute;
+    width : 542px;
+    height : 216px;
+    left : 126px;
+    top : 206px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 60px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .smalltext {
+    position : absolute;
+    width : 487px;
+    height : 96px;
+    left : 126px;
+    top : 432px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .picboy {
+    display : flex;
+    position : absolute;
+    width : 1096.34px;
+    height : 724.31px;
+    left : 657px;
+    top : 128.11px;
+    }
+    .footermenu1 {
+    position : absolute;
+    align-items : start;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #5222D0;
+    }
+    .footermenu2 {
+    position : absolute;
+    align-items : start;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .footermenu1__possibilities {
+    position : absolute;
+    width : 139px;
+    height : 32px;
+    left : 126px;
+    top : 788px;
+    }
+    .footermenu1__wheretobuy {
+    position : absolute;
+    width : 111px;
+    height : 32px;
+    left : 299px;
+    top : 788px;
+    }
+    .footermenu1__delivery {
+    position : absolute;
+    width : 95px;
+    height : 32px;
+    left : 444px;
+    top : 788px;
+    }
+    .footermenu1__help {
+    position : absolute;
+    width : 85px;
+    height : 32px;
+    left : 573px;
+    top : 788px;
+    }
+    .containervr_main {
+    position : relative;
+    width : 1440px;
+    height : 1311px;
+    background : #FFFFFF;
+    box-shadow : 0 20px 100px rgb(8, 24, 81, 0.25);
+    border-radius : 10px;
+    }
+    .border1 {
+    box-sizing : border-box;
+    position : absolute;
+    width : 440px;
+    height : 550px;
+    left : 92px;
+    top : 304px;
+    border : #BB2247 solid 1px;
+    }
+    .border2 {
+    box-sizing : border-box;
+    position : absolute;
+    width : 436px;
+    height : 259px;
+    left : 80px;
+    top : 854px;
+    border : #BB2247 solid 1px;
+    }
+    .block__bigtext_nocabeles {
+    position : absolute;
+    width : 365px;
+    height : 36px;
+    top : 623px;
+    left : 125px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .block__bigtext_nocomputer {
+    position : absolute;
+    width : 365px;
+    height : 36px;
+    top : 623px;
+    left : 563px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .block__bigtext_10houreswork {
+    position : absolute;
+    width : 365px;
+    height : 36px;
+    top : 623px;
+    left : 1001px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .block__smalltext_nocabeles {
+    position : absolute;
+    width : 365px;
+    height : 160px;
+    left : 125px;
+    top : 669px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .block__smalltext_nocomputer {
+    position : absolute;
+    width : 365px;
+    height : 160px;
+    left : 563px;
+    top : 669px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .block__smalltext_10houreswork {
+    position : absolute;
+    width : 365px;
+    height : 160px;
+    left : 1001px;
+    top : 669px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .blok__img_nocabeles {
+    position : absolute;
+    width : 365px;
+    height : 233px;
+    left : 127px;
+    top : 330px;
+    background : #EC615B;
+    }
+    .block__img_nocomuter {
+    position : absolute;
+    width : 365px;
+    height : 233px;
+    left : 563px;
+    top : 330px;
+    background : #EC615B;
+    }
+    .block__img_10houreswork {
+    position : absolute;
+    width : 365px;
+    height : 270px;
+    left : 1003px;
+    top : 328px;
+    }
+    .block__bigtext_100games {
+    position : absolute;
+    width : 365px;
+    height : 36px;
+    left : 125px;
+    top : 879px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .block__smalltext_100games {
+    position : absolute;
+    width : 365px;
+    height : 160px;
+    left : 125px;
+    top : 925px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .block__bigtext_forfree {
+    position : absolute;
+    width : 365px;
+    height : 36px;
+    left : 563px;
+    top : 879px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #000000;
+    }
+    .block__smalltext_forfree {
+    position : absolute;
+    width : 365px;
+    height : 128px;
+    left : 563px;
+    top : 925px;
+    font-family : 'Roboto Slab';
+    font-style : normal;
+    font-weight : 300;
+    font-size : 20px;
+    line-height : 160%;
+    color : #000000;
+    }
+    .form_subscribe {
+    display : flex;
+    position : absolute;
+    width : 365px;
+    height : 233px;
+    left : 1003px;
+    top : 854px;
+    background : #EC615B;
+    }
+    .btn_subscribe {
+    width : 135px;
+    height : 38px;
+    margin-top : 2em;
+    margin-left : 1em;
+    background : #5222D0;
+    border-radius : 100px;
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 13px;
+    line-height : 13px;
+    color : #FFFFFF;
+    }
+    .news {
+    font-family : 'Intro ';
+    font-style : normal;
+    font-weight : 400;
+    font-size : 30px;
+    line-height : 120%;
+    color : #FFFFFF;
+    }
+    .form__group {
+    margin-left : 1em;
+    margin-top : 2em;
+    }
+    .footermenu2__possibilities {
+    position : absolute;
+    width : 139px;
+    height : 32px;
+    left : 126px;
+    top : 1199px;
+    }
+    .footermenu2__wheretobuy {
+    position : absolute;
+    width : 111px;
+    height : 32px;
+    left : 299px;
+    top : 1199px;
+    }
+    .footermenu2__delivery {
+    position : absolute;
+    width : 95px;
+    height : 32px;
+    left : 444px;
+    top : 1199px;
+    }
+    .footermenu2__help {
+    position : absolute;
+    width : 85px;
+    height : 32px;
+    left : 573px;
+    top : 1199px;
+}
